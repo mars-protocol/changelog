@@ -1,0 +1,23 @@
+{
+  "astroport_factory_address": "terra15jsahkaf9p0qu8ye873p0u5z6g07wdad0tdq43",
+  "mars_token": "terra1jt5c42aurahdyle2h4qqs4f06v2v26sz0xsdqq",
+  "minterProxyContractAddress": "terra1vp629527wwvm9kxqsgn4fx2plgs4j5un0ea5yu",
+  "address_provider_contract": "terra12cexnlghxxrfypty7ddg2g5qexzcd3ttcyh9qw",
+  "councilContractAddress": "terra16ve2ahgf368ulu0pduv3gskxpa9qx645yt2hvg",
+  "vestingContractAddress": "terra1cf66u5fljw4akaggg220mphd2vmafnz8fcdu4c",
+  "stakingContractAddress": "terra1d4xc4qhemzl5ty2fynv8g68quxh9zve9xd3nkd",
+  "safetyFundContractAddress": "terra1e5zz72s386az7kswu6fv67puc394rvmu34qqa8",
+  "treasuryContractAddress": "terra1jldxlhuua8vqtjwd6w3r8mmg5pewqewnf4nmnj",
+  "incentivesContractAddress": "terra1fgs39mk36e8tlxh09lshdtjrtlj88a6rwywv66",
+  "xMarsTokenContractAddress": "terra1wvcwejjx755vk6ss5gj63t9shmu7dkyx55tack",
+  "maTokenCodeId": 42673,
+  "protocolRewardsCollectorContractAddress": "terra1qj2ysyelexaq032q9vmzjm2qmkzmjyg3wyyg0w",
+  "ust_enabled_on_reward_collector": true,
+  "config_updated_on_reward_collector": true,
+  "redBankContractAddress": "terra1hamvwu6a2nggjzxyepj7aqt6tmcf737d3l379z",
+  "oracleContractAddress": "terra1u70vqa4uwneptjcv5ukw0r6pmjk0aq9x7qd2xv",
+  "address_provider_addresses_set": true,
+  "oracle_is_set": true,
+  "oracle_config_updated": true,
+  "redbank_is_set": true
+}
