@@ -19,5 +19,10 @@
   "address_provider_addresses_set": true,
   "oracle_is_set": true,
   "oracle_config_updated": true,
-  "redbank_is_set": true
+  "redbank_is_set": true,
+  "ma_uusd_token_address": "terra1w30w9aqk6yjm9g0cdfrr04tna0hwjny38a4zt9",
+  "ma_uluna_token_address": "terra1wr94zqv4dcqh4lzr65t4athftlxhm9vy0w547n",
+  "ma_FMIR_token_address": "terra1p3hnvxravys2w53vgr0tux5h0jex0af3xgtgn5",
+  "ma_FANC_token_address": "terra1kpdz7h5fput90y45h8e36pjhy74m6f47sptkw4",
+  "ma_FASTRO_token_address": "terra1a7pwt47r4fyjyqxg7trh4jsdzr8r6yam0prcga"
 }
