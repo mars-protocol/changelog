@@ -2,6 +2,7 @@
   "mars_token_address": "terra1jt5c42aurahdyle2h4qqs4f06v2v26sz0xsdqq",
   "astro_token_address": "terra1h853ansdghqunj6alnm3dumutcgqkk4ges4s88",
   "astroport_generator_address": "terra1g40dfjuvgdpx4n9q0wn86kpzqj538m3xy3cg0l",
+  "astroport_vesting_address": "terra1wgxqdr5uy5pctxu726t9gsq3gdn35wj77kqh9z",
   "address_provider": "terra12cexnlghxxrfypty7ddg2g5qexzcd3ttcyh9qw",
   "lockdrop_address": "terra1fva9vykxpupwg8qqmq36sw6xh6q0pguwg4t026",
   "airdrop_address": "terra19zsxfxnrzs7dndghdpz8t8xnzjufaqegc7v6qq",
@@ -10,5 +11,11 @@
   "auction_set_in_airdrop": true,
   "lockdrop_mars_token_transferred": true,
   "airdrop_mars_token_transferred": true,
-  "auction_mars_token_transferred": true
+  "auction_mars_token_transferred": true,
+  "mars_ust_astroport_pool_address": "terra18af5wzhutckzmdhgpmyw354yxpm4hawd9xgqxn",
+  "mars_ust_astroport_lp_token_address": "terra13tkarlywmx0k6e425fgu6xnhqtd3tsfgscy2nf",
+  "lp_staking_address": "terra1rh8fyzrvzmxl99wxkrm0a70sgqrg5srrc4z6we",
+  "mars_transferred_to_lp_staking": true,
+  "mars_generator_proxy_address": "terra18fpwmuv9wjg0evhj60qxx3vqfd2cp2va0axm0c",
+  "set_proxy_as_allowed_in_generator": true
 }
