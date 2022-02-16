@@ -1,0 +1,20 @@
+{
+  "cw1_whitelist": 41841,
+  "cw20_base": 41842,
+  "mars_address_provider": 43291,
+  "mars_council": 43292,
+  "mars_vesting": 43293,
+  "mars_staking": 43294,
+  "mars_xmars_token": 43295,
+  "mars_treasury": 43298,
+  "mars_safety_fund": 43299,
+  "mars_protocol_rewards_collector": 43300,
+  "mars_incentives": 43301,
+  "ma_token": 43302,
+  "mars_red_bank": 43303,
+  "mars_oracle": 43304,
+  "mars_lockdrop": 43780,
+  "mars_airdrop": 43782,
+  "mars_auction": 43784,
+  "mars_lp_staking": 43565
+}

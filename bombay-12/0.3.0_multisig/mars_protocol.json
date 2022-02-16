@@ -1,0 +1,21 @@
+{
+  "mars_minter": "terra17w8wafenwgawmjfl26rsc88nvsvck55xnwpy6c",
+  "mars_token": "terra1cptfstyekn7yy9p9uf33n60mce4zsgeydh5xz7",
+  "mars_address_provider": "terra169nffxjed34vt7qerm92zarapzxlr26rx73eud",
+  "mars_council": "terra17c8r49695j9us95f6ha2dfw2tsjrv9rueasq6a",
+  "mars_vesting": "terra1rr9ph4mfea7v0yy9eqv3jzzm3549u0hk4t03gs",
+  "mars_staking": "terra149vc3xp8cd4p7yd7xswnplpumgmecmwv9neyak",
+  "mars_xmars_token": "terra1n0epthuzrlj88ww4q8jllkefussz9d60uak8vu",
+  "mars_treasury": "terra1q642ju8naw5y5vjduph9l6gym8gqyjyjnmumtc",
+  "mars_safety_fund": "terra1k97m7nwxzywg4kz0l34fffv2napthj9sxx4fj4",
+  "mars_protocol_rewards_collector": "terra1r2nz3zgkfk2gvpyy8yen22aq6vuctwq4x6ufca",
+  "mars_incentives": "terra1ymse2yakykywlwckaq48qw8ts70mldvl6cg84q",
+  "mars_red_bank": "terra1g2jf5s33srl9svtp50j8dxtjs9wc02kdvfagvc",
+  "mars_oracle": "terra1qptscrkd5sfygjlw88gy4ql9tfhz6rakzu33g2",
+  "astroport_mars_ust_pool": "terra1re53z2482umy6ngycx24gtv3ckuu307mxgkj75",
+  "astroport_mars_ust_pool_token": "terra1argezvpm0pk3t85pau9up3wjlxr5y94k2n2nsk",
+  "mars_lp_staking": "terra13cj3f74j064jcn9z4jhcgwv9g077lawjsheh7r",
+  "mars_lockdrop": "terra17u23rnueyk7e0sl7pkjrgp7saqgukkrfuceas3",
+  "mars_airdrop": "terra1egz89uhlscydz3jwlnz3k8hslv8xr9puk0a58v",
+  "mars_auction": "terra1494safzy0c08gtfr37r04cxx392kzl489hk5qw"
+}
