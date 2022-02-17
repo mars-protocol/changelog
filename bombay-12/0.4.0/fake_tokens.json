@@ -1,0 +1,13 @@
+{
+  "cw20_token_code_id": 44502,
+  "fake_astro_token": "terra15pa843gw9pk622yd69vmvj8v2mgnkycgk68anv",
+  "astroport_factory_address": "terra15jsahkaf9p0qu8ye873p0u5z6g07wdad0tdq43",
+  "fake_astro_pool_address": "terra1q2kv38ldy03g8ql6l8vfhc0sf5a2ypur7ee50c",
+  "fake_astro_lp_token_address": "terra13hereln5v8jqjrnw7xut63x5jakpdmm6rwff09",
+  "fake_anc_token": "terra12n6pf6rj3z86s90594d57nmmh65q4pyh502c8z",
+  "fake_anc_pool_address": "terra1ztl5fn0cznqtdve43xne6tmp4547a4nml24snx",
+  "fake_anc_lp_token_address": "terra1llys4hxu8wkt0msnm0nz328ymyrk3j3nz65rkx",
+  "fake_mir_token": "terra1swlg8vmfajfw6j0ay57wpa533dywwqz9zqd7cj",
+  "fake_mir_pool_address": "terra1408najmjzueu9ktg4rw7a8yge3z280d5yp9nay",
+  "fake_mir_lp_token_address": "terra1r5q4cepddwn9sklkm4x0jhspv09w8rwsfszx5u"
+}
