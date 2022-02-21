@@ -1,1 +1,18 @@
-{"mars_minter":"terra1jyec6uscvyg2uhx3gu9fs244amf4fqn4qrvc5k","mars_token":"terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n","mars_address_provider":"terra1757fltxm69k9gsndrsv0l69v0e75kfq403jmm7","mars_council":"terra1685de0sx5px80d47ec2xjln224phshysqxxeje","mars_vesting":"terra1985l6pp99gqef9mhn24pmd0wrevn0awpg3crn3","mars_staking":"terra1y8wwr5q24msk55x9smwn0ptyt24fxpwm4l7tjl","mars_xmars_token":"terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4","mars_treasury":"terra163vehtqzfcle397aepz64hdn89m89vr297mcz2","mars_safety_fund":"terra16zrcxq6pyq7uxhcmgfe68p09xh6g4wk6yw2f70","mars_protocol_rewards_collector":"terra1wsvgs63gckk05gnd5xvwzprt72hdkfkt4f52r9","mars_incentives":"terra16jslcc2l4h253c6t6l38hertzldsulqt637tfr","mars_red_bank":"terra19dtgj9j5j7kyf3pmejqv8vzfpxtejaypgzkz5u","mars_oracle":"terra155awqc2dxvswu2sgqxlsvwm06xl3g9fw6d5vp7","mars_lockdrop":"terra1n38982txtv2yygtcfv3e9wp2ktmjyxl6z88rma","mars_airdrop":"terra106htgurux879drvjy5tzp8l7ydcnytmhpj7yr3","mars_auction":"terra1hgyamk2kcy3stqx82wrnsklw9aq7rask5dxfds"}
+{
+  "mars_minter": "terra1jyec6uscvyg2uhx3gu9fs244amf4fqn4qrvc5k",
+  "mars_token": "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
+  "mars_address_provider": "terra1757fltxm69k9gsndrsv0l69v0e75kfq403jmm7",
+  "mars_council": "terra1685de0sx5px80d47ec2xjln224phshysqxxeje",
+  "mars_vesting": "terra1985l6pp99gqef9mhn24pmd0wrevn0awpg3crn3",
+  "mars_staking": "terra1y8wwr5q24msk55x9smwn0ptyt24fxpwm4l7tjl",
+  "mars_xmars_token": "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4",
+  "mars_treasury": "terra163vehtqzfcle397aepz64hdn89m89vr297mcz2",
+  "mars_safety_fund": "terra16zrcxq6pyq7uxhcmgfe68p09xh6g4wk6yw2f70",
+  "mars_protocol_rewards_collector": "terra1wsvgs63gckk05gnd5xvwzprt72hdkfkt4f52r9",
+  "mars_incentives": "terra16jslcc2l4h253c6t6l38hertzldsulqt637tfr",
+  "mars_red_bank": "terra19dtgj9j5j7kyf3pmejqv8vzfpxtejaypgzkz5u",
+  "mars_oracle": "terra155awqc2dxvswu2sgqxlsvwm06xl3g9fw6d5vp7",
+  "mars_lockdrop": "terra1n38982txtv2yygtcfv3e9wp2ktmjyxl6z88rma",
+  "mars_airdrop": "terra106htgurux879drvjy5tzp8l7ydcnytmhpj7yr3",
+  "mars_auction": "terra1hgyamk2kcy3stqx82wrnsklw9aq7rask5dxfds"
+}
