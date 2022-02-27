@@ -1,0 +1,16 @@
+{
+  "mars_minter": "terra1edmm652lnr2lxpxsr5q0evvwdyswc26prhqxla",
+  "mars_token": "terra1uqxhqcpklp8jtk8ux3mnwndcewcgf8w4dvexc0",
+  "minterProxyContractAddress": "terra1xh65clglsvgepaew463wx6jvvu3nsx35cz4vq5",
+  "address_provider_contract": "terra17dc5vgmhrkvwc3253ehjtswet899vjr8hxftyp",
+  "councilContractAddress": "terra1rmh7vem00xx9gxukr5ame3u7p383whwlgacmld",
+  "vestingContractAddress": "terra1rhlvn7dpnqhl5s92wg74yqvlv05v3d9f883skf",
+  "stakingContractAddress": "terra1y3kul4yz3ntq4uy9wpfu20jrgm0c0rxhgwdltx",
+  "safetyFundContractAddress": "terra15z5vc8mfkqztqd5024ykdw7n0mzxcjjm6lyreu",
+  "treasuryContractAddress": "terra1wnrd3hzeen2lxyr39svx7qmkgf6yw8rx93tn9t",
+  "incentivesContractAddress": "terra1aqunqtkqr3ch42ekle24kvyg2dtz2083hurqch",
+  "xMarsTokenContractAddress": "terra15sf87j7xlvmh99sxgh866syqfjvq63779pmf20",
+  "protocolRewardsCollectorContractAddress": "terra136uccrq9vytwwwdus28jpuyvaegs9vg4046xyx",
+  "redBankContractAddress": "terra1ahu5l3ckh2sd6aefs3sh4vtqxsd7ep924k5a0j",
+  "oracleContractAddress": "terra1zgdwegu26s7c7znpmzdnd9nk7v86j7n5k06jnl",
+}
