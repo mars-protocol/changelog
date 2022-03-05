@@ -1,4 +1,6 @@
 {
   "vestingAddress": "terra10a2hqd5nylvw509j8uzw2mrxy5aux2wmyvydy8",
-  "generatorAddress": "terra16kr4qn9g7xja9yl2c49n9pge6e5wa8umfth8p7"
+  "generatorAddress": "terra16kr4qn9g7xja9yl2c49n9pge6e5wa8umfth8p7",
+  "anc_ust_lp_generator_proxy": "terra1st54yhn4z89jvmgl2j6zk7fzdy0rrwwvgpdwky",
+  "mir_ust_lp_generator_proxy": "terra1nt2xqzdwguxv862lu7972pm9cc6fq8m679qxxs"
 }
