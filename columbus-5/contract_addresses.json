@@ -14,5 +14,10 @@
   "mars_oracle": "terra155awqc2dxvswu2sgqxlsvwm06xl3g9fw6d5vp7",
   "mars_lockdrop": "terra1n38982txtv2yygtcfv3e9wp2ktmjyxl6z88rma",
   "mars_airdrop": "terra106htgurux879drvjy5tzp8l7ydcnytmhpj7yr3",
-  "mars_auction": "terra1hgyamk2kcy3stqx82wrnsklw9aq7rask5dxfds"
+  "mars_auction": "terra1hgyamk2kcy3stqx82wrnsklw9aq7rask5dxfds",
+  "astroport_mars_ust_pool":"terra19wauh79y42u5vt62c5adt2g5h4exgh26t3rpds",
+  "astroport_mars_ust_pool_token":"terra1ww6sqvfgmktp0afcmvg78st6z89x5zr3tmvpss",
+  "mars_lp_staking":"terra1gmggdadphqxua2kewcgn2l57xxteafpne50je0",
+  "mars_ma_ust_token":"terra1cuku0vggplpgfxegdrenp302km26symjk4xxaf",
+  "mars_ma_luna_token":"terra1x4rrkxx5pyuce32wsdn8ypqnpx8n27klnegv0d"
 }
