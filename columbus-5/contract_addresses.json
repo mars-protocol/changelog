@@ -19,5 +19,8 @@
   "astroport_mars_ust_pool_token":"terra1ww6sqvfgmktp0afcmvg78st6z89x5zr3tmvpss",
   "mars_lp_staking":"terra1gmggdadphqxua2kewcgn2l57xxteafpne50je0",
   "mars_ma_ust_token":"terra1cuku0vggplpgfxegdrenp302km26symjk4xxaf",
-  "mars_ma_luna_token":"terra1x4rrkxx5pyuce32wsdn8ypqnpx8n27klnegv0d"
+  "mars_ma_luna_token":"terra1x4rrkxx5pyuce32wsdn8ypqnpx8n27klnegv0d",
+  "martian_fields_mir_ust":"terra12dq4wmfcsnz6ycep6ek4umtuaj6luhfp256hyu",
+  "martian_fields_anc_ust":"terra1vapq79y9cqghqny7zt72g4qukndz282uvqwtz6",
+  "martian_fields_luna_ust":"terra1kztywx50wv38r58unxj9p6k3pgr2ux6w5x68md"
 }
